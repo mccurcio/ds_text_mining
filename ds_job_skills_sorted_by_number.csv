@@ -1,0 +1,298 @@
+All the phrases in the file sorted by their counts are:
+"Data Science": 37
+"Data Analytics": 26
+"Data Analysis": 24
+"Analytical Skills": 23
+"SQL": 22
+"Python (Programming Language)": 22
+"Computer Science": 19
+"Communication": 19
+"Analytics": 16
+"Machine Learning": 15
+"Data Visualization": 14
+"Statistics": 13
+"Natural Language Processing (NLP)": 10
+"Databases": 10
+"Data Modeling": 9
+"Business Intelligence (BI)": 7
+"Data Mining": 6
+"Data Cleaning": 6
+"Dashboard": 6
+"Deep Learning": 6
+"Tableau ": 6
+"Pattern Recognition": 5
+"Predictive Analytics ": 5
+"Predictive Modeling": 5
+"R (Programming Language)": 5
+"Visualization ": 5
+"Problem Solving": 5
+"A/B Testing": 4
+"Mathematics": 4
+"Statistical Analysis": 4
+"Business Analysis": 4
+"Database Design": 4
+"Extract, Transform, Load (ETL)": 4
+"Project Management": 4
+"Critical Thinking": 4
+"Microsoft Excel": 4
+"Artificial Intelligence (AI)": 3
+"Amazon Web Services (AWS)": 3
+"Azure Databricks": 3
+"Microsoft Azure": 3
+"Experimental Design": 3
+"SAS (Software)": 3
+"Clinical Data": 3
+"Data Engineering": 3
+"Data Management": 3
+"Predictive Analytics": 3
+"Statistical Analysis ": 3
+"Applied Mathematics": 3
+"Data Architecture": 3
+"Statistical Data Analysis": 3
+"Presentations": 3
+"Written Communication ": 3
+"Microsoft Office": 3
+"Relational Databases": 3
+"Data Quality": 3
+"Business Requirements": 3
+"Problem Solving ": 3
+"Economics": 3
+"Interpersonal Skills": 2
+"Business Strategy": 2
+"Marketing Strategy": 2
+"Reporting & Analysis": 2
+"Scientific Data Management ": 2
+"Apache Spark": 2
+"Pandas (Software)": 2
+"DevOps": 2
+"Jira": 2
+"Software Development Life Cycle (SDLC) ": 2
+"PySpark": 2
+"Data Wrangling": 2
+"Datasets": 2
+"Attention to Detail": 2
+"Big Data": 2
+"Pattern Recognition ": 2
+"Employee Benefits": 2
+"Research": 2
+"Looker (Software)": 2
+"Java": 2
+"Data Warehousing": 2
+"Microsoft Power BI": 2
+"MATLAB": 2
+"R (Programming Language) ": 2
+"Web Analytics ": 2
+"Microsoft PowerPoint": 2
+"IBM SPSS": 2
+"Business Rules": 2
+"Regulatory Requirements": 2
+"Risk Compliance ": 2
+"Architecture": 2
+"Enterprise Architecture": 2
+"Leadership": 2
+"Report Building": 2
+"Software Development": 2
+"Strategy": 2
+"System Architecture": 2
+"TOGAF ": 2
+"MicroStrategy": 2
+"Pivot Tables": 2
+"Data Integrity": 2
+"Presentation Skills": 2
+"Visual Basic for Applications (VBA) ": 2
+"Visualization": 2
+"Administrative Processes": 1
+"Data Retention": 1
+"Motor Vehicle": 1
+"Program Administration": 1
+"Records Management ": 1
+"Operations Research": 1
+"Distributed Computing": 1
+"Model Design": 1
+"Technical Design ": 1
+"Python": 1
+"TensorFlow": 1
+"PyTorch": 1
+"Spark": 1
+"GCP": 1
+"Vertex AI": 1
+"DSL": 1
+"Unstructured Data ": 1
+"Analytical Solutions": 1
+"Creative Problem Solving": 1
+"Recommender Systems ": 1
+"Laptops": 1
+"Statistical Concepts": 1
+"TensorFlow ": 1
+"Documentation": 1
+"Possess strong analytical": 1
+"Product Requirements": 1
+"Scope Management": 1
+"Strategic Thinking ": 1
+"Bioinformatics": 1
+"Machine Learning Algorithms": 1
+"NGS": 1
+"Research and Development (R&D) ": 1
+"Academic Publishing": 1
+"Language Processing": 1
+"Acceptance Testing": 1
+"Clinical Data Management": 1
+"Data Standards": 1
+"Electronic Trial Master File (eTMF)": 1
+"User Acceptance Testing": 1
+"eCRF ": 1
+"Ember.js": 1
+"Computer Vision": 1
+"Electrical Engineering": 1
+"Git ": 1
+"Oncology": 1
+"Optimization": 1
+"Statistical Programming": 1
+"ggplot": 1
+"Semiconductor Fabrication": 1
+"Semiconductors": 1
+"Version Control ": 1
+"Data Structures": 1
+"Programming Languages": 1
+"Statistical Programming ": 1
+"Metrics Definition": 1
+"DAX": 1
+"Git": 1
+"ANCOVA": 1
+"ANOVA": 1
+"Dimensionality Reduction": 1
+"Customer Data": 1
+"Biostatistics": 1
+"Clinical Trials": 1
+"Epidemiology": 1
+"SNOMED": 1
+"U.S. Health Insurance Portability and Accountability Act (HI…": 1
+"Unit Testing ": 1
+"D3.js": 1
+"Scala ": 1
+"Exploratory Data Analysis": 1
+"Hive": 1
+"RStudio": 1
+"Professional Skills ": 1
+"Marketing": 1
+"Advertising": 1
+"Online Advertising": 1
+"Interpersonal Relationships": 1
+"Performance Metrics": 1
+"Business Growth": 1
+"C#": 1
+"Coding Experience": 1
+"Mathematical Analysis": 1
+"Microsoft SQL Server": 1
+"Sentiment Analysis ": 1
+"Anomaly Detection": 1
+"Calendaring": 1
+"Confidentiality": 1
+"Decision-Making": 1
+"Information Management": 1
+"Office Equipment": 1
+"Graph Databases": 1
+"Recommender Systems": 1
+"Cross-functional Coordination": 1
+"Cross-team Collaboration": 1
+"Data Pipelines": 1
+"Linux ": 1
+"Strategic Thinking": 1
+"Cluster Analysis": 1
+"Credit Risk Management": 1
+"Fraud Detection": 1
+"Logistic Regression": 1
+"Random Forest": 1
+"Risk Modeling": 1
+"Underwriting ": 1
+"Agile Methodologies": 1
+"IBM Db2": 1
+"MongoDB": 1
+"PostgreSQL ": 1
+"Ab Initio": 1
+"Data Preparation": 1
+"Data Profiling": 1
+"Greenplum": 1
+"Relational Databases ": 1
+"Quality Control": 1
+"QlikView": 1
+"SQL Server Integration Services (SSIS) ": 1
+"Data Manipulation": 1
+"Proactive Monitoring": 1
+"Decision Support": 1
+"Business Analytics": 1
+"Influence Others": 1
+"Requirements Gathering ": 1
+"Alteryx": 1
+"Consumer Marketing": 1
+"Cross-functional Team Leadership": 1
+"RACI": 1
+"Requirements Gathering": 1
+"IT Projects": 1
+"Management": 1
+"Project Tracking": 1
+"Quality Assurance": 1
+"Software Development Life Cycle (SDLC)": 1
+"Software Implementation": 1
+"System Testing": 1
+"User Acceptance Testing ": 1
+"JavaScript": 1
+"Microsoft SQL Server ": 1
+"Statistical Software": 1
+"Finance": 1
+"Financial Analysis": 1
+"Financial Reporting": 1
+"Forecasting": 1
+"Interpersonal Communication": 1
+"Benchmarking": 1
+"Business Insights": 1
+"Marketing Mix Modeling": 1
+"Point of Sale (POS) Systems": 1
+"Sales & Marketing": 1
+"Strategic Leadership ": 1
+"Cognitive Science": 1
+"Competitive Assessment": 1
+"Jupyter": 1
+"Personal Accident": 1
+"Pycharm": 1
+"White Papers ": 1
+"Adobe Analytics": 1
+"Google Analytics": 1
+"Google BigQuery": 1
+"Google Data Studio": 1
+"Decision Sciences": 1
+"Hypothesis Testing": 1
+"Perl": 1
+"SAP BusinessObjects": 1
+"Stata": 1
+"Text Mining ": 1
+"Quantitative Analytics": 1
+"Computerized System Validation (CSV)": 1
+"Data Validation": 1
+"Computer Literacy": 1
+"Conference Presentations": 1
+"Technical Writing": 1
+"Claims Handling": 1
+"Loss Mitigation": 1
+"Partner Relationship Management": 1
+"Actuarial Science": 1
+"Management Information Systems (MIS)": 1
+"Database Administration": 1
+"Oracle Database": 1
+"Query Writing": 1
+"Reporting Requirements": 1
+"SQL Server Reporting Services (SSRS) ": 1
+"Data Models": 1
+"Cloud Computing": 1
+"Learning": 1
+"Mobile Application Development": 1
+"Robotic Process Automation (RPA)": 1
+"Training Programs ": 1
+"Data Collection": 1
+"Process Improvement": 1
+"Quality Management": 1
+"SAP Products": 1
+"Statutory Accounting Principles (SAP) ": 1
+"Microsoft Power Query": 1
+"Time Management": 1
+
