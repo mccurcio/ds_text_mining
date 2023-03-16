@@ -1,0 +1,298 @@
+"Phrase","Count","Area Of Interest"
+"Data Science",37,ds
+"Data Analytics",26,ds
+"Data Analysis",24,ds
+"Analytical Skills",23,ds
+"SQL",22,db
+"Python (Programming Language)",22,py
+"Computer Science",19,comp
+"Communication",19,soft
+"Analytics",16,ds
+"Machine Learning",15,ml
+"Data Visualization",14,dviz
+"Statistics",13,stats
+"Natural Language Processing (NLP)",10,ml
+"Databases",10,db
+"Data Modeling",9,ml
+"Business Intelligence (BI)",7,soft
+"Data Mining",6,ds
+"Data Cleaning",6,ds
+"Dashboard",6,dviz
+"Deep Learning",6,ml
+"Tableau",6,dviz
+"Pattern Recognition",5,ml
+"Predictive Analytics",5,ml
+"Predictive Modeling",5,ml
+"R (Programming Language)",5,stats
+"Visualization",5,dviz
+"Problem Solving",5,soft
+"A/B Testing",4,stats
+"Mathematics",4,stats
+"Statistical Analysis",4,stats
+"Business Analysis",4,soft
+"Database Design",4,db
+"Extract, Transform, Load (ETL)",4,ds
+"Project Management",4,soft
+"Critical Thinking",4,soft
+"Microsoft Excel",4,comp
+"Artificial Intelligence (AI)",3,ml
+"Amazon Web Services (AWS)",3,jargon
+"Azure Databricks",3,jargon
+"Microsoft Azure",3,jargon
+"Experimental Design",3,stats
+"SAS (Software)",3,jargon
+"Clinical Data",3,stats
+"Data Engineering",3,db
+"Data Management",3,db
+"Predictive Analytics",3,ml
+"Statistical Analysis",3,stats
+"Applied Mathematics",3,stats
+"Data Architecture",3,db
+"Statistical Data Analysis",3,stats
+"Presentations",3,soft
+"Written Communication",3,soft
+"Microsoft Office",3,comp
+"Relational Databases",3,db
+"Data Quality",3,ds
+"Business Requirements",3,soft
+"Problem Solving ",3,soft
+"Economics",3,soft
+"Interpersonal Skills",2,soft
+"Business Strategy",2,soft
+"Marketing Strategy",2,soft
+"Reporting & Analysis",2,ds
+"Scientific Data Management",2,db
+"Apache Spark",2,jargon
+"Pandas (Software)",2,py
+"DevOps",2,jargon
+"Jira",2,jargon
+"Software Development Life Cycle (SDLC)",2,comp
+"PySpark",2,py
+"Data Wrangling",2,ds
+"Datasets",2,ds
+"Attention to Detail",2,soft
+"Big Data",2,db
+"Pattern Recognition ",2,ml
+"Employee Benefits",2,soft
+"Research",2,jargon
+"Looker (Software)",2,comp
+"Java",2,comp
+"Data Warehousing",2,db
+"Microsoft Power BI",2,stats
+"MATLAB",2,stats
+"R (Programming Language)",2,stats
+"Web Analytics ",2,comp
+"Microsoft PowerPoint",2,comp
+"IBM SPSS",2,stats
+"Business Rules",2,soft
+"Regulatory Requirements",2,jargon
+"Risk Compliance ",2,jargon
+"Architecture",2,db
+"Enterprise Architecture",2,db
+"Leadership",2,soft
+"Report Building",2,soft
+"Software Development",2,comp
+"Strategy",2,soft
+"System Architecture",2,comp
+"TOGAF",2,jargon
+"MicroStrategy",2,comp
+"Pivot Tables",2,comp
+"Data Integrity",2,db
+"Presentation Skills",2,soft
+"Visual Basic for Applications (VBA)",2,comp
+"Visualization",2,dviz
+"Administrative Processes",1,soft
+"Data Retention",1,ds
+"Motor Vehicle",1,jargon
+"Program Administration",1,soft
+"Records Management ",1,db
+"Operations Research",1,jargon
+"Distributed Computing",1,comp
+"Model Design",1,ml
+"Technical Design",1,db
+"Python",1,py
+"TensorFlow",1,ml
+"PyTorch",1,ml
+"Spark",1,ml
+"GCP",1,jargon
+"Vertex AI",1,ml
+"DSL",1,jargon
+"Unstructured Data",1,db
+"Analytical Solutions",1,soft
+"Creative Problem Solving",1,soft
+"Recommender Systems",1,ml
+"Laptops",1,jargon
+"Statistical Concepts",1,stats
+"TensorFlow",1,ml
+"Documentation",1,soft
+"Possess strong analytical",1,soft
+"Product Requirements",1,jargon
+"Scope Management",1,soft
+"Strategic Thinking",1,soft
+"Bioinformatics",1,db
+"Machine Learning Algorithms",1,ml
+"NGS",1,jargon
+"Research and Development (R&D)",1
+"Academic Publishing",1,jargon
+"Language Processing",1,ml
+"Acceptance Testing",1,jargon
+"Clinical Data Management",1,db
+"Data Standards",1,db
+"Electronic Trial Master File (eTMF)",1,jargon
+"User Acceptance Testing",1,jargon
+"eCRF",1,jargon
+"Ember.js",1,dviz
+"Computer Vision",1,ml
+"Electrical Engineering",1,comp
+"Git",1,ds
+"Oncology",1,jargon
+"Optimization",1,stats
+"Statistical Programming",1,stats
+"ggplot",1,ml
+"Semiconductor Fabrication",1,jargon
+"Semiconductors",1,jargon
+"Version Control ",1,ds
+"Data Structures",1,db
+"Programming Languages",1,comp
+"Statistical Programming ",1,stats
+"Metrics Definition",1,stats
+"DAX",1,jargon
+"Git",1,ds
+"ANCOVA",1,stats
+"ANOVA",1,stats
+"Dimensionality Reduction",1,ml
+"Customer Data",1,jargon
+"Biostatistics",1,stats
+"Clinical Trials",1,stats
+"Epidemiology",1,stats
+"SNOMED",1,jargon
+"U.S. Health Insurance Portability and Accountability Act (HI…",1,jargon
+"Unit Testing ",1,comp
+"D3.js",1,ml
+"Scala",1,comp
+"Exploratory Data Analysis",1,ml
+"Hive",1,comp
+"RStudio",1,stats
+"Professional Skills",1,soft
+"Marketing",1,soft
+"Advertising",1,soft
+"Online Advertising",1,jargon
+"Interpersonal Relationships",1,soft
+"Performance Metrics",1,ml
+"Business Growth",1,soft
+"C#",1,comp
+"Coding Experience",1,comp
+"Mathematical Analysis",1,stats
+"Microsoft SQL Server",1,db
+"Sentiment Analysis ",1,ml
+"Anomaly Detection",1,ml
+"Calendaring",1,jargon
+"Confidentiality",1,soft
+"Decision-Making",1,soft
+"Information Management",1,db
+"Office Equipment",1,jargon
+"Graph Databases",1,db
+"Recommender Systems",1,ml
+"Cross-functional Coordination",1,soft
+"Cross-team Collaboration",1,soft
+"Data Pipelines",1,ml
+"Linux",1,comp
+"Strategic Thinking",1,soft
+"Cluster Analysis",1,ml
+"Credit Risk Management",1,ml
+"Fraud Detection",1,ml
+"Logistic Regression",1,ml
+"Random Forest",1,ml
+"Risk Modeling",1,ml
+"Underwriting ",1,jargon
+"Agile Methodologies",1,comp
+"IBM Db2",1,db
+"MongoDB",1,db
+"PostgreSQL ",1,db
+"Ab Initio",1,jargon
+"Data Preparation",1,ds
+"Data Profiling",1,ds
+"Greenplum",1,comp
+"Relational Databases ",1,db
+"Quality Control",1,jargon
+"QlikView",1,comp
+"SQL Server Integration Services (SSIS) ",1,db
+"Data Manipulation",1,db
+"Proactive Monitoring",1,soft
+"Decision Support",1,soft
+"Business Analytics",1,stats
+"Influence Others",1,soft
+"Requirements Gathering",1,jargon
+"Alteryx",1,jargon
+"Consumer Marketing",1,soft
+"Cross-functional Team Leadership",1,soft
+"RACI",1,jargon
+"Requirements Gathering",1,jargon
+"IT Projects",1,comp
+"Management",1,soft
+"Project Tracking",1,soft
+"Quality Assurance",1,soft
+"Software Development Life Cycle (SDLC)",1,comp
+"Software Implementation",1,comp
+"System Testing",1,comp
+"User Acceptance Testing",1,comp
+"JavaScript",1,dviz
+"Microsoft SQL Server",1,db
+"Statistical Software",1,stats
+"Finance",1,stats
+"Financial Analysis",1,stats
+"Financial Reporting",1,stats
+"Forecasting",1,ml
+"Interpersonal Communication",1,soft
+"Benchmarking",1,comp
+"Business Insights",1,soft
+"Marketing Mix Modeling",1,ml
+"Point of Sale (POS) Systems",1,jargon
+"Sales & Marketing",1,soft
+"Strategic Leadership",1,soft
+"Cognitive Science",1,jargon
+"Competitive Assessment",1,jargon
+"Jupyter",1,py
+"Personal Accident",1,jargon
+"Pycharm",1,py
+"White Papers ",1,jargon
+"Adobe Analytics",1,jargon
+"Google Analytics",1,jargon
+"Google BigQuery",1,jargon
+"Google Data Studio",1,jargon
+"Decision Sciences",1,ml
+"Hypothesis Testing",1,stats
+"Perl",1,comp
+"SAP BusinessObjects",1,jargon
+"Stata",1,stats
+"Text Mining",1,ml
+"Quantitative Analytics",1,ml
+"Computerized System Validation (CSV)",1,db
+"Data Validation",1,db
+"Computer Literacy",1,comp
+"Conference Presentations",1,soft
+"Technical Writing",1,soft
+"Claims Handling",1,jargon
+"Loss Mitigation",1,jargon
+"Partner Relationship Management",1,soft
+"Actuarial Science",1,stats
+"Management Information Systems (MIS)",1,db
+"Database Administration",1,db
+"Oracle Database",1,db
+"Query Writing",1,db
+"Reporting Requirements",1,jargon
+"SQL Server Reporting Services (SSRS)",1,db
+"Data Models",1,ml
+"Cloud Computing",1,comp
+"Learning",1,soft
+"Mobile Application Development",1,comp
+"Robotic Process Automation (RPA)",1,comp
+"Training Programs ",1,soft
+"Data Collection",1,ds
+"Process Improvement",1,stats
+"Quality Management",1,ds
+"SAP Products",1,comp
+"Statutory Accounting Principles (SAP)",1,comp
+"Microsoft Power Query",1,db
+"Time Management",1,soft
+
